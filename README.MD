@@ -31,7 +31,7 @@ You can find the full thesis here:
 
 ## Related Papers
 The thesis is based on the following papers:
-
+``` ```
 - **[SeaTurtleID2022:
 A long-span dataset for reliable sea turtle re-identification](https://arxiv.org/pdf/2211.10307)**
 - **[WildlifeDatasets: An open-
@@ -43,6 +43,7 @@ Animal Identification with Calibrated Similarity Fusion](https://arxiv.org/pdf/2
 ## Citation
 If you find this work useful, please cite it as:
 
+```
 @phdthesis{Cermak2025,
   author      = {Vojtech Cermák},
   title       = {Fine-grained recognition of animals in the wild},
@@ -50,3 +51,5 @@ If you find this work useful, please cite it as:
   year        = {2025},
   type        = {PhD thesis},
 }
+```
+
